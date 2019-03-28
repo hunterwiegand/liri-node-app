@@ -96,7 +96,7 @@ function Art() {
                 "Produced: " + data.Country,
                 "Plot: " + data.Plot,
                 "Actors: " + data.Actors,
-            ]
+            ].join("\n");
 
             console.log(showData);
             fs.appendFile("log.txt", showData + divider, function (err) {

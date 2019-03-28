@@ -1,24 +1,3 @@
-Name: Qudos Bank Arena
-Location: Sydney Olympic Park
-Date: 29 03 2019
-------------------------------------------------------------
-
-Band: Green Day
-Song: 21 Guns
-Preview: https://p.scdn.co/mp3-preview/9139658121b115dac9d893ba0cbe537c9995b090?cid=5e7c6ed18d6e47dcaffcf0d73e332455
-Album: 21st Century Breakdown
-------------------------------------------------------------
-
-Name: Cherokee Hotel & Casino West Siloam Springs
-Location: West Siloam Springs
-Date: 11 04 2019
-------------------------------------------------------------
-
-Name: Mollenpark
-Location: Aalborg
-Date: 01 06 2019
-------------------------------------------------------------
-
 Name: The Sugar Club
 Location: Dublin
 Date: 02 04 2019
@@ -30,73 +9,12 @@ Preview: https://p.scdn.co/mp3-preview/da065def642a98be2ae5e5d40c423490b40cd74d?
 Album: We Like It Here
 ------------------------------------------------------------
 
-Name: The O2
-Location: London
-Date: 28 03 2019
-------------------------------------------------------------
-
-Name: SOMETHING IN THE WATER
-Location: Virginia Beach
-Date: 26 04 2019
-------------------------------------------------------------
-
-Band: Fall Out Boy
-Song: Thnks fr th Mmrs
-Preview: null
-Album: Infinity On High
-------------------------------------------------------------
-
-Band: Mom Jeans.
-Song: Scott Pilgrim vs. My Gpa - Audiotree Live Version
-Preview: https://p.scdn.co/mp3-preview/7b013a8db3518d89734c09f2104c93e68acb3073?cid=5e7c6ed18d6e47dcaffcf0d73e332455
-Album: Mom Jeans. on Audiotree Live
-------------------------------------------------------------
-
-Band: Harry Styles
-Song: Sign of the Times
-Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=5e7c6ed18d6e47dcaffcf0d73e332455
-Album: Harry Styles
-------------------------------------------------------------
-
-Title: Me and Earl and the Dying Girl,Year: 2015,IMDB Rating: 7.8,Rottem Tomatoes Rating: 81%,Produced: USA,Plot: High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.,Actors: Thomas Mann, RJ Cyler, Olivia Cooke, Nick Offerman
-------------------------------------------------------------
-
-Title: Dead Snow,Year: 2009,IMDB Rating: 6.3,Rottem Tomatoes Rating: 68%,Produced: Norway,Plot: A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies.,Actors: Vegar Hoel, Stig Frode Henriksen, Charlotte Frogner, Lasse Valdal
-------------------------------------------------------------
-
-Title: Dead Snow,Year: 2009,IMDB Rating: 6.3,Rottem Tomatoes Rating: 68%,Produced: Norway,Plot: A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies.,Actors: Vegar Hoel, Stig Frode Henriksen, Charlotte Frogner, Lasse Valdal
-------------------------------------------------------------
-
-Name: The Sugar Club
-Location: Dublin
-Date: 02 04 2019
-------------------------------------------------------------
-
-Band: I Am Abomination
-Song: Since 1776
-Preview: https://p.scdn.co/mp3-preview/7e8fa3f5ac18ffe63f75eaec50adb29630e71075?cid=5e7c6ed18d6e47dcaffcf0d73e332455
-Album: To Our Forefathers
-------------------------------------------------------------
-
-Name: The Sugar Club
-Location: Dublin
-Date: 02 04 2019
-------------------------------------------------------------
-
-Title: Hunt for the Wilderpeople,Year: 2016,IMDB Rating: 7.9,Rottem Tomatoes Rating: 96%,Produced: New Zealand,Plot: A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.,Actors: Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House
-------------------------------------------------------------
-
-Name: The Sugar Club
-Location: Dublin
-Date: 02 04 2019
-------------------------------------------------------------
-
-Band: Snarky Puppy
-Song: Lingus
-Preview: https://p.scdn.co/mp3-preview/da065def642a98be2ae5e5d40c423490b40cd74d?cid=5e7c6ed18d6e47dcaffcf0d73e332455
-Album: We Like It Here
-------------------------------------------------------------
-
-Title: The Room,Year: 2003,IMDB Rating: 3.7,Rottem Tomatoes Rating: 26%,Produced: USA,Plot: Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.,Actors: Tommy Wiseau, Juliette Danielle, Greg Sestero, Philip Haldiman
+Title: The Room
+Year: 2003
+IMDB Rating: 3.7
+Rottem Tomatoes Rating: 26%
+Produced: USA
+Plot: Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.
+Actors: Tommy Wiseau, Juliette Danielle, Greg Sestero, Philip Haldiman
 ------------------------------------------------------------
 
